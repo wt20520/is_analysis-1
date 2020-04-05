@@ -20,7 +20,7 @@ ArrayList : size()
 
 参见图8.17
 
-![class](class1.png)
+![查询语句](test1.)
 
 ### 1.3. 类图说明：
 说明文字***
